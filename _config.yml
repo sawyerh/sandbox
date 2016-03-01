@@ -1,0 +1,21 @@
+---
+title: Dropmark Writing
+url: http://dropmarkwriting.com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  testing:
+    title: Testing
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  services:
+    title: services
+    output: true
+    permalink: "/:collection/:path/"
+  test:
+    title: test
+    output: true
