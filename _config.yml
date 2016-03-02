@@ -3,6 +3,9 @@ title: Dropmark Writing
 url: http://dropmarkwriting.com
 timezone: UTC
 collections:
+  nesting:
+    title: Nesting
+    output: true
   posts:
     title: Posts
     output: true
