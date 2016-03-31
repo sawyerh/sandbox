@@ -1,5 +1,5 @@
 ---
-title: Publish/Sync Testing
+title: Publish/Sync
 url: http://publish-sync-test.com
 timezone: UTC
 collections:
@@ -22,3 +22,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+test: asdf
