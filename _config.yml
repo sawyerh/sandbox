@@ -1,6 +1,6 @@
 ---
-title: Sandbox
-url: http://sandbox2.siteleaf.biz
+title: Publish/Sync Testing
+url: http://publish-sync-test.com
 timezone: UTC
 collections:
   posts:
