@@ -22,3 +22,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+test: asdf
