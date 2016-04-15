@@ -7,8 +7,8 @@ list:
 - two
 obj:
   Object key: hello
-is-featured: 
-image: 
+is-featured: false
+image: "/uploads/sawyer and creativemornings auckland.jpg"
 body: 
 ---
 
