@@ -9,5 +9,6 @@ obj:
   Object key: hello
 is-featured: 
 image: 
+body: 
 ---
 
