@@ -8,5 +8,6 @@ list:
 obj:
   Object key: hello
 is-featured: 
+image: 
 ---
 
