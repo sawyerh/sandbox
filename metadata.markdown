@@ -5,7 +5,7 @@ position: 2
 color: "#c96a1b"
 is-featured: false
 image: "/uploads/sawyer and creativemornings auckland.jpg"
-highlighted_at: 2016-09-21 13:30:00.000000000 Z
+highlighted_at: 2016-09-29 13:30:00.000000000 Z
 test: 
 body: 
 layout: default
