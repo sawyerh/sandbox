@@ -31,7 +31,7 @@ There are three types of metadata fields you can create in Siteleaf: Simple, Lis
 
 A "Simple" metadata field accepts a name and text value. These fields might be simple, but they're also smart. See the "Smart Field Names" section below for more info.
 
-![Simple metadata](/uploads/metadata/simple.png)
+![monkey.jpg](/uploads/monkey.jpg)
 
 Accessing this page field in your template would look like this:
 
@@ -45,7 +45,7 @@ Accessing this page field in your template would look like this:
 
 A "List" metadata field accepts a name and a list (AKA an array) of other metadata fields, which can be any field type. You can have a list of simple metadata fields, a list of lists, or a list of objects. This makes entering repeatable content very easy.
 
-![List metadata](/uploads/metadata/list.png)
+![otter.jpg](/uploads/otter.jpg)
 
 An example of looping through this page field in your template would look like:
 
@@ -61,7 +61,7 @@ An example of looping through this page field in your template would look like:
 
 An "Object" metadata field is the most descriptive of field types, allowing you to create a field that has many name/value pairs, where the value can be a field of any type (simple, list, or object). For example, you could create an "Author" object field where you could set their name, bio, and list of links.
 
-![Object metadata](/uploads/metadata/object.png)
+![2014-12-05 23.35.19.jpg](/uploads/2014-12-05%2023.35.19.jpg)
 
 Accessing this page field in your template would look like this:
 

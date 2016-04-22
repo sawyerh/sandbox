@@ -12,6 +12,9 @@ collections:
   postsasd:
     title: Posts
     output: true
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
