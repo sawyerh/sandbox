@@ -1,6 +1,6 @@
 ---
 title: Metadata Example
-date: 2015-10-30 19:58:00 Z
+date: 2015-10-30 12:58:00 -07:00
 position: 1
 this is an image: 
 subtitle: Metadata UI Example
