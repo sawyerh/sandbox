@@ -6,13 +6,16 @@ collections:
   drafts:
     title: Drafts
     output: true
+  metadata:
+    title: Metadata
+    output: true
   people:
     title: People
     output: true
-  posts:
+  postsasd:
     title: Posts
     output: true
-  postsasd:
+  posts:
     title: Posts
     output: true
   uploads:
