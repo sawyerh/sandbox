@@ -1,0 +1,16 @@
+---
+title: Sawyerh.com
+url: http://sawyerh2.com
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  projects:
+    title: Projects
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/writing/:title/"
+markdown: redcarpet
