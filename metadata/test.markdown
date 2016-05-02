@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 2016-02-24 12:02:00 -08:00
+date: 2016-02-24 20:02:00 Z
 position: 0
 '2015': x!test x
 Array field:

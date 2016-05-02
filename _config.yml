@@ -1,34 +1,16 @@
 ---
-title: v2 site!
-url: http://v2siteoakmade.siteleaf.biz
-timezone: America/Los_Angeles
+title: Sawyerh.com
+url: http://sawyerh2.com
+timezone: UTC
 collections:
-  drafts:
-    title: Drafts
-    output: true
-  metadata:
-    title: Metadata
-    output: true
-  people:
-    title: People
-    output: true
-  postsasd:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: false
   uploads:
     title: Uploads
     output: true
-  test:
-    title: test
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/posts/:title/"
-permalink: pretty
-highlighted_at: 2016-04-25 04:30:00.000000000 Z
+permalink: "/writing/:title/"
+markdown: redcarpet

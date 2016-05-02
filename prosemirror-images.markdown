@@ -1,6 +1,6 @@
 ---
 title: ProseMirror Images
-date: 2016-04-22 14:26:00 -07:00
+date: 2016-04-22 21:26:00 Z
 ---
 
 ![monkey.jpg](/uploads/monkey.jpg)
