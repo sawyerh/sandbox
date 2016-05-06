@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 2016-05-02 13:57:00 Z
+date: 2016-05-02 06:57:00 -07:00
 permalink: "/holla/test"
 ---
 

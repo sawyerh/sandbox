@@ -1,6 +1,6 @@
 ---
 title: Metadata
-date: 2015-10-10 15:36:00 Z
+date: 2015-10-10 08:36:00 -07:00
 published: false
 position: 2
 galleryx:
