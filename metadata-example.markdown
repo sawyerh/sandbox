@@ -5,7 +5,8 @@ published: false
 position: 1
 this is an image: 
 subtitle: Metadata UI Example
-good-file: '01'
+good-file:
+- 
 portfolio items:
 - title: Example!
   image: "/uploads/kawl.jpg"
