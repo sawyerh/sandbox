@@ -6,6 +6,9 @@ collections:
   drafts:
     title: Drafts
     output: true
+  empty:
+    title: Empty
+    output: true
   metadata:
     title: Metadata
     output: true
