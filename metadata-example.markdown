@@ -9,9 +9,9 @@ good-file:
 - 
 portfolio items:
 - title: Example!
-  image: "/uploads/kawl.jpg"
+  image: "/uploads/otter.jpg"
 - title: ANOTHER
-  image: Whatttt
+  image: "/uploads/image.jpeg"
 ---
 
 HONG KONG — Chinese authorities are quietly scrutinizing technology products sold in China by Apple and other big foreign companies, focusing on whether they pose potential security threats to the country and its consumers and opening up a new front in an already tense **relationship** with Washington over digital security.
