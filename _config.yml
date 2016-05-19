@@ -14,10 +14,10 @@ collections:
   people:
     title: People
     output: true
-  postsasd:
+  posts:
     title: Posts
     output: true
-  posts:
+  postsasd:
     title: Posts
     output: true
   uploads:
