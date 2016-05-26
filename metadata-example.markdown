@@ -2,9 +2,9 @@
 title: Metadata Example
 date: 2015-10-30 12:58:00 -07:00
 published: false
-position: 1
-this is an image: 
-subtitle: Metadata UI Example
+position: 2
+this is an image: http://oak.is/assets/sawyer.jpg
+subtitle: Metadata UI Example!!
 good-file:
 - 
 portfolio items:
@@ -12,6 +12,9 @@ portfolio items:
   image: "/uploads/otter.jpg"
 - title: ANOTHER
   image: "/uploads/image.jpeg"
+color_hsl: hsl(0, 100%, 14%)
+body: 
+start_date: 
 ---
 
 HONG KONG — Chinese authorities are quietly scrutinizing technology products sold in China by Apple and other big foreign companies, focusing on whether they pose potential security threats to the country and its consumers and opening up a new front in an already tense **relationship** with Washington over digital security.

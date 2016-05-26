@@ -1,5 +1,5 @@
 ---
-title: A quick brown fix
+title: v2 site!
 timezone: America/Los_Angeles
 collections:
   drafts:
@@ -14,10 +14,10 @@ collections:
   people:
     title: People
     output: true
-  posts:
+  postsasd:
     title: Posts
     output: true
-  postsasd:
+  posts:
     title: Posts
     output: true
   uploads:
