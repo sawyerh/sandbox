@@ -1,10 +1,7 @@
 ---
 title: Test
-date: 2016-02-24 20:02:00 Z
-position: 0
-'2015': x!test x
-Array field:
-- 'one '
-- '2018': test
+date: 2016-05-02 06:57:00 -07:00
+permalink: "/holla/test"
+position: 5
 ---
 

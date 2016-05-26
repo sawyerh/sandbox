@@ -1,6 +1,6 @@
 ---
 title: Archive your old collections
-date: 2016-02-10 18:54:00 Z
+date: 2016-02-10 10:54:00 -08:00
 'space ': testtest
 ---
 

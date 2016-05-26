@@ -1,10 +1,21 @@
 ---
 title: v2 site!
-url: http://v2siteoakmade.com
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   drafts:
     title: Drafts
+    output: true
+  empty:
+    title: Empty
+    output: true
+  metadata:
+    title: Metadata
+    output: true
+  people:
+    title: People
+    output: true
+  postsasd:
+    title: Posts
     output: true
   posts:
     title: Posts
@@ -21,4 +32,3 @@ defaults:
     type: posts
   values:
     permalink: "/posts/:title/"
-permalink: pretty
