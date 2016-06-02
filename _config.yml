@@ -1,34 +1,10 @@
 ---
-title: v2 site!
-timezone: America/Los_Angeles
+title: June 1 Example Sites
+timezone: Europe/Amsterdam
 collections:
-  drafts:
-    title: Drafts
-    output: true
-  empty:
-    title: Empty
-    output: true
-  metadata:
-    title: Metadata
-    output: true
-  people:
-    title: People
-    output: true
-  postsasd:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  test:
-    title: test
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/posts/:title/"

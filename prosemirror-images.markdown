@@ -1,6 +1,6 @@
 ---
 title: ProseMirror Images
-date: 2016-04-22 14:26:00 -07:00
+date: 2016-04-22 23:26:00 +02:00
 position: 3
 ---
 
