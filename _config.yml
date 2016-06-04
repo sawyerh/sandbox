@@ -1,34 +1,23 @@
 ---
-title: v2 site
-timezone: America/Los_Angeles
+title: Wat
+timezone: UTC
 collections:
-  drafts:
-    title: Drafts
-    output: true
-  empty:
-    title: Empty
-    output: true
-  metadata:
-    title: Metadata
-    output: true
-  people:
-    title: People
-    output: true
-  postsasd:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  test:
-    title: test
-    output: true
 defaults:
 - scope:
     path: ''
     type: posts
   values:
+    layout: post
     permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
