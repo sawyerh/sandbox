@@ -1,24 +1,23 @@
 ---
-title: v2 site!
-url: http://v2siteoakmade.siteleaf.biz
+title: Hello Siteleaf
 timezone: UTC
 collections:
-  drafts:
-    title: Drafts
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  test:
-    title: test
-    output: true
 defaults:
 - scope:
     path: ''
     type: posts
   values:
+    layout: post
     permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
 permalink: pretty
