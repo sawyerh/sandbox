@@ -7,7 +7,7 @@ galleryx:
   image: "/uploads/2014-01-04 14.03.27.jpg"
   description: test
   color: 
-start date: 2016-04-29 04:30:00.000000000 Z
+start date: 2016-04-29 04:30:00 Z
 image: "/uploads/otter.jpg"
 layout: default
 ---
