@@ -1,6 +1,6 @@
 ---
 title: Metadata Example
-date: 2015-10-30 20:58:00 +01:00
+date: 2015-10-30 19:58:00 Z
 published: false
 position: 2
 this is an image: http://oak.is/assets/sawyer.jpg

@@ -1,6 +1,6 @@
 ---
 title: Child
-date: 2016-03-01 21:43:00 +01:00
+date: 2016-03-01 20:43:00 Z
 position: 0
 simple: test
 array_field:
