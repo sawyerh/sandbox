@@ -1,6 +1,6 @@
 ---
 title: An easier way to set collection covers and item thumbnails
-date: 2016-02-10 10:15:00 -08:00
+date: 2016-02-10 18:15:00 Z
 Field name: test
 test: asdfasdf
 ---

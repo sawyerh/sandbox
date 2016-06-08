@@ -1,6 +1,6 @@
 ---
 title: Test people
-date: 2016-05-24 10:31:00 -07:00
+date: 2016-05-24 17:31:00 Z
 people: Justin
 ---
 

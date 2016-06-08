@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 2016-02-26 13:39:00 -08:00
+date: 2016-02-26 21:39:00 Z
 tags:
 - peanut butter
 basic: field
