@@ -11,6 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+    permalink: "/images/:path"
 defaults:
 - scope:
     path: ''
