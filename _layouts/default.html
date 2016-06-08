@@ -1,4 +1,20 @@
-{{ page.title }}
-{{ page.highlighted_at }}
+<!DOCTYPE html>
+<html>
 
-<p>{{ page.highlighted_at | date: "%B %d %Y, %r %Z" }}</p>
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
