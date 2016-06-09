@@ -1,7 +1,10 @@
 ---
-title: june8basd
+title: june9c
 timezone: UTC
 collections:
+  look:
+    title: People
+    output: true
   posts:
     title: Posts
     output: true
