@@ -1,17 +1,13 @@
 ---
-title: june7oak
+title: newsitehello
 timezone: UTC
 collections:
-  people:
-    title: People
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-    permalink: "/images/:path"
 defaults:
 - scope:
     path: ''
@@ -24,14 +20,4 @@ defaults:
     type: pages
   values:
     layout: page
-- scope:
-    path: ''
-    type: pages
-  values:
-    foo_date: 
-- scope:
-    path: ''
-    type: pages
-  values:
-    foo_date: ''
 permalink: pretty
