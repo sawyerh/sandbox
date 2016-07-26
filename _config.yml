@@ -1,13 +1,14 @@
 ---
-title: june9c
+title: june25
 timezone: UTC
 collections:
-  look:
+  people:
     title: People
     output: true
   posts:
     title: Posts
     output: true
+    permalink: blog/:title
   uploads:
     title: Uploads
     output: true
@@ -23,4 +24,4 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
+permalink: "/blog-site/:title"
