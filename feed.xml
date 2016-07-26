@@ -4,9 +4,20 @@
     <title>june25</title>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2016 12:04:38 -0400</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 12:04:38 -0400</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2016 12:33:44 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2016 12:33:44 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>A Post title</title>
+        <description>
+</description>
+        <pubDate>Mon, 11 Jul 2016 09:36:00 -0400</pubDate>
+        <link>/posts/a-post-path/</link>
+        <guid isPermaLink="true">/posts/a-post-path/</guid>
+        
+        
+      </item>
     
       <item>
         <title>4</title>
@@ -37,17 +48,6 @@
         <pubDate>Mon, 11 Jul 2016 09:36:00 -0400</pubDate>
         <link>/posts/2/</link>
         <guid isPermaLink="true">/posts/2/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>1</title>
-        <description>
-</description>
-        <pubDate>Mon, 11 Jul 2016 09:36:00 -0400</pubDate>
-        <link>/posts/1/</link>
-        <guid isPermaLink="true">/posts/1/</guid>
         
         
       </item>
