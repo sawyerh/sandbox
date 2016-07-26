@@ -1,7 +1,11 @@
 ---
-title: ghauth
+title: june25
 timezone: UTC
 collections:
+  people:
+    title: People
+    output: true
+    permalink: "/persons/:path"
   posts:
     title: Posts
     output: true
@@ -20,4 +24,4 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
+permalink: "/blog-site/:title"
