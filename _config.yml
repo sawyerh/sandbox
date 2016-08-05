@@ -1,27 +1,10 @@
 ---
-title: june25
+title: Testing API pagination and filtering
 timezone: UTC
 collections:
-  people:
-    title: People
-    output: true
-    permalink: "/persons/:path"
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: "/blog-site/:title"
