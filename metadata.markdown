@@ -2,7 +2,7 @@
 title: Metadata
 date: 2015-10-10 15:36:00 Z
 published: false
-position: 6
+position: 1
 galleryx:
   image: "/uploads/2014-01-04 14.03.27.jpg"
   description: test
