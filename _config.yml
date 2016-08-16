@@ -8,16 +8,36 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
 permalink: pretty
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Guil Hernandez
+      layout: "post"
+      category: conferences
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+      author2: Guil Hernandez
+      author3: Guil Hernandez
+      author4: Guil Hernandez
+      author5: Guil Hernandez
+      
+   -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "event" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+      author2: Guil Hernandez
+      author3: Guil Hernandez
+      author4: Guil Hernandez
+      author5: Guil Hernandez
